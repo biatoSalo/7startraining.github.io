@@ -45,7 +45,7 @@
 {
 "id": 2,
 "vendorTitle": "Featured Courses",
-"title": "CompTIA Network+ N10-007 Pearson uCertify",
+"title": "CompTIA Network+ N10-007",
 "img": "img/vendorCoursesImages/pearson-N10-007-complete.png",
 "courseObjective": "Gear up to prepare for the CompTIA Network+ N10-007 exam with the CompTIA Network+ N10-007 course and performance-based labs. Performance-based labs simulate real-world, hardware, software & command line interface environments and can be mapped to any text-book, course & training. The cert guide offers interactive study material for the preparation of N10-007 certification exam and include topics such as network policies; network components; Ethernet technology; WANs; routing IP packets; IPv4 and IPv6 addresses, and many more.",
 "lessons": 15,
