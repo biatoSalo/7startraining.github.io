@@ -125,6 +125,27 @@
 "liveLab": 0,
 "courseVideos": 0,
 "videoMinutes": 0
+},
+{
+"id": 6,
+"vendorTitle": "Featured Courses",
+"title": "CCNA Security 210-260 Official Cert Guide",
+"img": "img/vendorCoursesImages/CCNA-210-260.png",
+"courseObjective": "Prepare for the Cisco CCNA 210-260 exam with the CCNA Security 210-260 Official Cert Guide course and lab. Lab simulates real-world, hardware, software, and command-line interface environments and can be mapped to any text-book, course or training. The course and lab cover the objectives of the Cisco CCNA 210-260 exam and teach candidates how to secure Cisco networks, develop a security infrastructure, recognize threats and vulnerabilities to networks; and mitigate security threats.",
+"lessons": 21,
+"exercises": 0,
+"quizzes": 198,
+"flashcards": 150,
+"glossary": 150,
+"preAssessment": 71,
+"tests": 2,
+"postAssessment": 71,
+"performance": 40,
+"tutorials": 40,
+"tutorialMinutes": "02:56",
+"liveLab": 0,
+"courseVideos": 3,
+"videoMinutes": "01:30"
 }
 ]
 }
