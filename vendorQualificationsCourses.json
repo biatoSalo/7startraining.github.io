@@ -104,6 +104,27 @@
 "liveLab": 68,
 "courseVideos": 44,
 "videoMinutes": "15:29"
-}  
+},
+{
+"id": 5,
+"vendorTitle": "Featured Courses",
+"title": "ITIL® Foundation",
+"img": "img/vendorCoursesImages/EX0-101.png",
+"courseObjective": "Kick start your prep for the ITIL Foundation EX0-101 certification exam with the ITIL Foundation course. Interactive chapters comprehensively cover ITIL Foundation EX0-101 certification exam objectives and teach you about service design roles, service operation processes, continual service improvements, service design processes, service transition processes, and service strategy processes.",
+"lessons": 14,
+"exercises": 263,
+"quizzes": 397,
+"flashcards": 213,
+"glossary": 113,
+"preAssessment": 40,
+"tests": 9,
+"postAssessment": 40,
+"performance": 0,
+"tutorials": 0,
+"tutorialMinutes": 0,
+"liveLab": 0,
+"courseVideos": 0,
+"videoMinutes": 0
+}
 ]
 }
