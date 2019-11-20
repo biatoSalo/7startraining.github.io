@@ -146,6 +146,27 @@
 "liveLab": 0,
 "courseVideos": 3,
 "videoMinutes": "01:30"
+},
+{
+"id": 7,
+"vendorTitle": "Featured Courses",
+"title": "Installing and Configuring Windows Server 2012 R2",
+"img": "img/vendorCoursesImages/70-410-complete.png",
+"courseObjective": "Prepare for the Microsoft MCSA 70-410 exam with the Installing and Configuring Windows Server 2012 R2 70-410 course and lab. The lab provides a virtual environment for users to explore and learn. The course and lab completely cover the objectives of the 70-410 exam and include topics such as installing and configuring servers; configuring server roles and features; deploying and configuring core network services; configuring Hyper-V, creating and managing Group Policy; and more.",
+"lessons": 10,
+"exercises": 94,
+"quizzes": 162,
+"flashcards": 141,
+"glossary": 141,
+"preAssessment": 50,
+"tests": 2,
+"postAssessment": 45,
+"performance": 97,
+"tutorials": 91,
+"tutorialMinutes": "01:25",
+"liveLab": 22,
+"courseVideos": 91,
+"videoMinutes": "01:25"
 }
 ]
 }
