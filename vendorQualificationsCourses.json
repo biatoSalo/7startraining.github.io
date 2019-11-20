@@ -83,6 +83,27 @@
 "liveLab": 0,
 "courseVideos": 194,
 "videoMinutes": "03:40"
-}
+},
+{
+"id": 4,
+"vendorTitle": "Featured Courses",
+"title": "Oracle PL/SQL Certified Associate",
+"img": "img/vendorCoursesImages/1Z0-061.png",
+"courseObjective": "Gain hands-on expertise to pass Oracle SQL Database 12c 1Z0-061 certification with Oracle Database 12c: SQL Fundamentals course. It offers complete coverage of the 1Z0-061 exam objectives and provides expertise on the topics such as SQL, group functions, single-row functions, joins and subqueries, data manipulation, table and constraints creation, 12c RDBMS Database, and more. The course goes beyond traditional Oracle exam preparation to strengthen your knowledge in all aspects of a relational database.",
+"lessons": 8,
+"exercises": 128,
+"quizzes": 135,
+"flashcards": 43,
+"glossary": 43,
+"preAssessment": 10,
+"tests": 4,
+"postAssessment": 48,
+"performance": 0,
+"tutorials": 0,
+"tutorialMinutes": 0,
+"liveLab": 68,
+"courseVideos": 44,
+"videoMinutes": "15:29"
+}  
 ]
 }
