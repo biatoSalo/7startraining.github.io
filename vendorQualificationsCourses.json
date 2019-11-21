@@ -188,6 +188,27 @@
 "liveLab": 0,
 "courseVideos": 0,
 "videoMinutes": 0
+},
+{
+"id": 9,
+"vendorTitle": "Featured Courses",
+"title": "Site Development Associate",
+"img": "img/vendorCoursesImages/ciw.png",
+"courseObjective": "Kick start your prep for the CIW Site Development Associate 1D0-61B certification exam with CIW: Site Development Associate course. The course provides complete coverage of the CIW 1D0-61B exam objectives and includes topics such as technologies for enhancing the user's web experience; design and color principles for web pages; and a lot more. The course will help you learn, prepare, and practice for the exam and built to provide assessment, review, and practice to help ensure you are fully prepared for your certification exam.",
+"lessons": 10,
+"exercises": 1,
+"quizzes": 400,
+"flashcards": 77,
+"glossary": 77,
+"preAssessment": 30,
+"tests": 4,
+"postAssessment": 189,
+"performance": 0,
+"tutorials": 43,
+"tutorialMinutes": "03:07",
+"liveLab": 39,
+"courseVideos": 43,
+"videoMinutes": "03:07"
 }
 ]
 }
