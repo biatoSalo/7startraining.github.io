@@ -209,6 +209,27 @@
 "liveLab": 39,
 "courseVideos": 18,
 "videoMinutes": "01:16"
+},
+{
+"id": 10,
+"vendorTitle": "Featured Courses",
+"title": "Internet Business Associate",
+"img": "img/vendorCoursesImages/ciw.png",
+"courseObjective": "Kick start your prep for the CIW Internet Business Associate 1D0-61A exam with the CIW Internet Business Associate course. The course offers complete coverage of 1D0-61A exam objectives and teaches you about tasks involved in various Information Technology (IT) job roles, Internet connection methods, Internet protocols, the Domain Name System (DNS), cloud computing, and mobile devices. The course also covers the basic functions of Web browsers, components of Web addresses and browser use in the business world; plug-ins and add-ons; databases, local and Web-based (cloud-based) e-mail clients, security measures, and more.",
+"lessons": 10,
+"exercises": 0,
+"quizzes": 494,
+"flashcards": 264,
+"glossary": 264,
+"preAssessment": 30,
+"tests": 4,
+"postAssessment": 275,
+"performance": 0,
+"tutorials": 0,
+"tutorialMinutes": 0,
+"liveLab": 0,
+"courseVideos": 22,
+"videoMinutes": "01:47"
 }
 ]
 }
