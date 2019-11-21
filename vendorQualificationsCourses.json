@@ -251,6 +251,27 @@
 "liveLab": 18,
 "courseVideos": 5,
 "videoMinutes": "00:19"
+},
+{
+"id": 12,
+"vendorTitle": "Featured Courses",
+"title": "Social Media Strategist",
+"img": "img/vendorCoursesImages/ciw.png",
+"courseObjective": "Start your prep for the CIW Social Media Strategist 1D0-623 exam with the CIW Social Media Strategist course. The course provides complete coverage of the CIW 1D0-623 exam objectives. The course is for IT professionals to explain business uses of social media; identify steps involved in a creating successful social media campaign; discuss crowdsourcing and crowd shaping strategies; and much more. The course is designed to provide all the advanced skills that are used nowadays in the social media marketing field.",
+"lessons": 10,
+"exercises": 0,
+"quizzes": 227,
+"flashcards": 184,
+"glossary": 184,
+"preAssessment": 55,
+"tests": 3,
+"postAssessment": 134,
+"performance": 0,
+"tutorials": 0,
+"tutorialMinutes": 0,
+"liveLab": 0,
+"courseVideos": 14,
+"videoMinutes": "00:25"
 }
 ]
 }
