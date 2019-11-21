@@ -272,6 +272,27 @@
 "liveLab": 0,
 "courseVideos": 14,
 "videoMinutes": "00:25"
+},
+{
+"id": 13,
+"vendorTitle": "Featured Courses",
+"title": "CompTIA Security+ (Course and Labs)",
+"img": "img/vendorCoursesImages/SY0-501_pro.png",
+"courseObjective": "Pass the CompTIA Security+ SY0-501 certification exam in your first attempt with the CompTIA Security+ course and lab. The lab comes with a well-organized component library for every task. The course and lab completely cover the Security+ SY0-501 exam objectives and teach the concepts such as threats, attacks, and vulnerabilities; technologies and tools; architecture and design; identity and access management; risk management; cryptography and PKI, and more.",
+"lessons": 15,
+"exercises": 255,
+"quizzes": 121,
+"flashcards": 265,
+"glossary": 265,
+"preAssessment": 95,
+"tests": 2,
+"postAssessment": 90,
+"performance": 55,
+"tutorials": 0,
+"tutorialMinutes": 0,
+"liveLab": 0,
+"courseVideos": 81,
+"videoMinutes": "20:49"
 }
 ]
 }
