@@ -2,7 +2,7 @@
 "data": [
 {
 "id": 0,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "Oracle Certified Associate Java SE 8 Programmer",
 "img": "img/vendorCoursesImages/1Z0-808.png",
 "courseObjective": "Prepare for the Oracle Java SE 8 Programmer I certification exam with the Oracle Certified Associate Java SE 8 Programmer I by Enthuware course. Interactive chapters comprehensively cover the Oracle Java 1Z0-808 exam objectives and provide knowledge in areas such as developing Java applications; mastering Java data types, operators and decision control structures; and understanding core Java APIs, encapsulations, and more.",
@@ -23,7 +23,7 @@
 },
 {
 "id": 1,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "HTML5 Application Development Fundamentals",
 "img": "img/vendorCoursesImages/98-375-2019_pro.png",
 "courseObjective": "Prepare for the Microsoft MTA 98-375 certification exam with the HTML5 Application Development Fundamentals course and lab. The lab can be mapped to any course, textbook, or training, adding value and a hands-on component to training. The course and lab cover the MTA 98-375 exam objectives and provide skills required to manage the application life cycle, build the user interface (UI) by using HTML5, format the user interface by using Cascading Style Sheets (CSS), and code by using JavaScript.",
@@ -44,7 +44,7 @@
 },
 {
 "id": 2,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "CompTIA Network+ N10-007",
 "img": "img/vendorCoursesImages/pearson-N10-007-complete.png",
 "courseObjective": "Gear up to prepare for the CompTIA Network+ N10-007 exam with the CompTIA Network+ N10-007 course and performance-based labs. Performance-based labs simulate real-world, hardware, software & command line interface environments and can be mapped to any text-book, course & training. The cert guide offers interactive study material for the preparation of N10-007 certification exam and include topics such as network policies; network components; Ethernet technology; WANs; routing IP packets; IPv4 and IPv6 addresses, and many more.",
@@ -65,7 +65,7 @@
 },
 {
 "id": 3,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "MTA Networking Fundamentals",
 "img": "img/vendorCoursesImages/98-366.png",
 "courseObjective": "Prepare and pass Microsoft MTA 98-366 exam with uCertify MTA Networking Fundamentals course. The course covers all the objectives of Microsoft MTA 98-366 exam that include understanding network infrastructures like concepts of Internet, intranet, extranet, LANs, WANs, wireless networking, and network topologies, understanding network hardware like switches, routers, and media types, and understanding protocols and services like OSI Model, IPv4, IPv6, networking services, and TCP/IP.",
@@ -86,7 +86,7 @@
 },
 {
 "id": 4,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "Oracle PL/SQL Certified Associate",
 "img": "img/vendorCoursesImages/1Z0-061.png",
 "courseObjective": "Gain hands-on expertise to pass Oracle SQL Database 12c 1Z0-061 certification with Oracle Database 12c: SQL Fundamentals course. It offers complete coverage of the 1Z0-061 exam objectives and provides expertise on the topics such as SQL, group functions, single-row functions, joins and subqueries, data manipulation, table and constraints creation, 12c RDBMS Database, and more. The course goes beyond traditional Oracle exam preparation to strengthen your knowledge in all aspects of a relational database.",
@@ -107,7 +107,7 @@
 },
 {
 "id": 5,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "ITIL® Foundation",
 "img": "img/vendorCoursesImages/EX0-101.png",
 "courseObjective": "Kick start your prep for the ITIL Foundation EX0-101 certification exam with the ITIL Foundation course. Interactive chapters comprehensively cover ITIL Foundation EX0-101 certification exam objectives and teach you about service design roles, service operation processes, continual service improvements, service design processes, service transition processes, and service strategy processes.",
@@ -128,7 +128,7 @@
 },
 {
 "id": 6,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "CCNA Security 210-260 Official Cert Guide",
 "img": "img/vendorCoursesImages/CCNA-210-260.png",
 "courseObjective": "Prepare for the Cisco CCNA 210-260 exam with the CCNA Security 210-260 Official Cert Guide course and lab. Lab simulates real-world, hardware, software, and command-line interface environments and can be mapped to any text-book, course or training. The course and lab cover the objectives of the Cisco CCNA 210-260 exam and teach candidates how to secure Cisco networks, develop a security infrastructure, recognize threats and vulnerabilities to networks; and mitigate security threats.",
@@ -149,7 +149,7 @@
 },
 {
 "id": 7,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "Installing and Configuring Windows Server 2012 R2",
 "img": "img/vendorCoursesImages/70-410-complete.png",
 "courseObjective": "Prepare for the Microsoft MCSA 70-410 exam with the Installing and Configuring Windows Server 2012 R2 70-410 course and lab. The lab provides a virtual environment for users to explore and learn. The course and lab completely cover the objectives of the 70-410 exam and include topics such as installing and configuring servers; configuring server roles and features; deploying and configuring core network services; configuring Hyper-V, creating and managing Group Policy; and more.",
@@ -170,7 +170,7 @@
 },
 {
 "id": 8,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "Programming in C# - Coming Soon",
 "img": "img/vendorCoursesImages/70-483_pro.png",
 "courseObjective": "Prepare for the Microsoft MCSA 70-483 certification exam with the Programming in C# course and lab. The lab can be mapped to any course, textbook, or training, therefore, adding value and a hands-on component to training. The course and lab completely cover the MCSA 70-483 exam objectives and help you master the skills required to Manage Program Flow, Create and Use Types; Debug Applications and Implement Security; and Implement Data Access.",
@@ -191,7 +191,7 @@
 },
 {
 "id": 9,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "Site Development Associate",
 "img": "img/vendorCoursesImages/ciw.png",
 "courseObjective": "Kick start your prep for the CIW Site Development Associate 1D0-61B certification exam with CIW: Site Development Associate course. The course provides complete coverage of the CIW 1D0-61B exam objectives and includes topics such as technologies for enhancing the user's web experience; design and color principles for web pages; and a lot more. The course will help you learn, prepare, and practice for the exam and built to provide assessment, review, and practice to help ensure you are fully prepared for your certification exam.",
@@ -212,7 +212,7 @@
 },
 {
 "id": 10,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "Internet Business Associate",
 "img": "img/vendorCoursesImages/ciw.png",
 "courseObjective": "Kick start your prep for the CIW Internet Business Associate 1D0-61A exam with the CIW Internet Business Associate course. The course offers complete coverage of 1D0-61A exam objectives and teaches you about tasks involved in various Information Technology (IT) job roles, Internet connection methods, Internet protocols, the Domain Name System (DNS), cloud computing, and mobile devices. The course also covers the basic functions of Web browsers, components of Web addresses and browser use in the business world; plug-ins and add-ons; databases, local and Web-based (cloud-based) e-mail clients, security measures, and more.",
@@ -233,7 +233,7 @@
 },
 {
 "id": 11,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "Data Analyst",
 "img": "img/vendorCoursesImages/ciw.png",
 "courseObjective": "Start your prep for the CIW Data Analyst 1D0-622 exam with the CIW Data Analyst course. The course covers all the objectives of the 1D0-622 exam and provides skills to identify typical sources of institutional knowledge, including Customer Relationship Management (CRM) applications, inventory management systems, tableau public, Google fusion tables, OpenRefine, industry systems; and much more. The course explains the importance of IT data management, including ethics and security with its interactive learning resources.",
@@ -254,7 +254,7 @@
 },
 {
 "id": 12,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "Social Media Strategist",
 "img": "img/vendorCoursesImages/ciw.png",
 "courseObjective": "Start your prep for the CIW Social Media Strategist 1D0-623 exam with the CIW Social Media Strategist course. The course provides complete coverage of the CIW 1D0-623 exam objectives. The course is for IT professionals to explain business uses of social media; identify steps involved in a creating successful social media campaign; discuss crowdsourcing and crowd shaping strategies; and much more. The course is designed to provide all the advanced skills that are used nowadays in the social media marketing field.",
@@ -275,7 +275,7 @@
 },
 {
 "id": 13,
-"vendorTitle": "Featured Courses",
+"vendorTitle": "Vendor Qualifications Courses",
 "title": "CompTIA Security+",
 "img": "img/vendorCoursesImages/SY0-501_pro.png",
 "courseObjective": "Pass the CompTIA Security+ SY0-501 certification exam in your first attempt with the CompTIA Security+ course and lab. The lab comes with a well-organized component library for every task. The course and lab completely cover the Security+ SY0-501 exam objectives and teach the concepts such as threats, attacks, and vulnerabilities; technologies and tools; architecture and design; identity and access management; risk management; cryptography and PKI, and more.",
