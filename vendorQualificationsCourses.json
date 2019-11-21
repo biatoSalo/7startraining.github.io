@@ -167,6 +167,27 @@
 "liveLab": 22,
 "courseVideos": 91,
 "videoMinutes": "01:25"
+},
+{
+"id": 8,
+"vendorTitle": "Featured Courses",
+"title": "Installing and Configuring Windows Server 2012 R2",
+"img": "img/vendorCoursesImages/70-410-complete.png",
+"courseObjective": "Prepare for the Microsoft MCSA 70-483 certification exam with the Programming in C# course and lab. The lab can be mapped to any course, textbook, or training, therefore, adding value and a hands-on component to training. The course and lab completely cover the MCSA 70-483 exam objectives and help you master the skills required to Manage Program Flow, Create and Use Types; Debug Applications and Implement Security; and Implement Data Access.",
+"lessons": 0,
+"exercises": 0,
+"quizzes": 0,
+"flashcards": 0,
+"glossary": 0,
+"preAssessment": 0,
+"tests": 0,
+"postAssessment": 0,
+"performance": 0,
+"tutorials": 0,
+"tutorialMinutes": 0,
+"liveLab": 0,
+"courseVideos": 0,
+"videoMinutes": 0
 }
 ]
 }
