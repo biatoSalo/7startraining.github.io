@@ -335,6 +335,27 @@
 "liveLab": 17,
 "courseVideos": 26,
 "videoMinutes": "01:27"
+},
+{
+"id": 16,
+"vendorTitle": "Vendor Qualifications Courses",
+"title": "MTA Windows Server Administration Fundamentals",
+"img": "img/vendorCoursesImages/98-365-sy.png",
+"courseObjective": "Create new career opportunities by being Microsoft MTA certified with the MTA: Windows Server Administration Fundamentals course. The course completely covers the 98-365 exam objectives and provides the required knowledge and skills in server installation, server roles, Active Directory, server storage, server performance management, and server maintenance.",
+"lessons": 15,
+"exercises": 351,
+"quizzes": 115,
+"flashcards": 104,
+"glossary": 104,
+"preAssessment": 50,
+"tests": 6,
+"postAssessment": 55,
+"performance": 0,
+"tutorials": 0,
+"tutorialMinutes": 0,
+"liveLab": 0,
+"courseVideos": 39,
+"videoMinutes": "00:27"
 }
 ]
 }
