@@ -314,6 +314,27 @@
 "liveLab": 0,
 "courseVideos": 102,
 "videoMinutes": "07:48"
+},
+{
+"id": 15,
+"vendorTitle": "Vendor Qualifications Courses",
+"title": "CIW Network Technology Associate",
+"img": "img/vendorCoursesImages/ciw.png",
+"courseObjective": "Gear up to prepare for the CIW Network Technology Associate 1D0-61C certification exam with the CIW: Network Technology Associate course. The course focuses on all the objectives of the 1D0-61C exam and includes functions, features, and technologies associated with Internet services, such as cloud computing and much more. The course is designed to provide you knowledge on the exam topics such as Internet services, hardware and device connectivity, network and cloud security risks, firewall topologies, and many more.",
+"lessons": 9,
+"exercises": 0,
+"quizzes": 332,
+"flashcards": 134,
+"glossary": 134,
+"preAssessment": 30,
+"tests": 2,
+"postAssessment": 73,
+"performance": 0,
+"tutorials": 26,
+"tutorialMinutes": "03:18",
+"liveLab": 17,
+"courseVideos": 26,
+"videoMinutes": "01:27"
 }
 ]
 }
