@@ -356,6 +356,27 @@
 "liveLab": 0,
 "courseVideos": 39,
 "videoMinutes": "00:27"
+},
+{
+"id": 17,
+"vendorTitle": "Vendor Qualifications Courses",
+"title": "MTA Software Development Fundamentals (Course & Lab)",
+"img": "img/vendorCoursesImages/98-361.png",
+"courseObjective": "Get certified for the Microsoft MTA 98-361 certification exam with the MTA: Software Development Fundamentals course and lab. Lab simulates real-world, hardware, software, and command-line interface environments and can be mapped to any text-book, course or training. The course and lab cover MTA 98-361 exam objectives and provide an understanding of core programming, object-oriented programming, general software development, web applications, desktop applications, and databases.",
+"lessons": 6,
+"exercises": 270,
+"quizzes": 171,
+"flashcards": 47,
+"glossary": 47,
+"preAssessment": 15,
+"tests": 7,
+"postAssessment": 34,
+"performance": 43,
+"tutorials": 0,
+"tutorialMinutes": 0,
+"liveLab": 0,
+"courseVideos": 15,
+"videoMinutes": "00:17"
 }
 ]
 }
