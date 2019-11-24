@@ -381,7 +381,7 @@
 {
 "id": 18,
 "vendorTitle": "Vendor Qualifications Courses",
-"title": "MCSA/MCSE - Configuring Advanced Windows Server 2012 R2 Services (Course & Lab)",
+"title": "MCSA/MCSE - Configuring Advanced Windows Server 2012 R2 Services",
 "img": "img/vendorCoursesImages/70-412.png",
 "courseObjective": "Prepare for the Microsoft MCSA 70-412 exam with the MCSA/MCSE Configuring Advanced Windows Server 2012 R2 Services course and lab. Lab simulates real-world, hardware, software and command line interface environments and can be mapped to any text-book, course or training. The course and lab completely cover the objectives of the MCSA 70-412 exam and include topics such as configuring and managing high availability; configuring file and storage solutions; implementing business continuity and disaster recovery; configuring advanced network services; and more.",
 "lessons": 7,
