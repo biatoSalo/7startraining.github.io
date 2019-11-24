@@ -293,6 +293,27 @@
 "liveLab": 0,
 "courseVideos": 81,
 "videoMinutes": "20:49"
+},
+{
+"id": 14,
+"vendorTitle": "Vendor Qualifications Courses",
+"title": "Comprehensive Computer Technician (CompTIA A+ 220-1001/1002)",
+"img": "img/vendorCoursesImages/220-1001-220-1002_pro.png",
+"courseObjective": "Prepare for the CompTIA A+ 220-1001 and 220-1002 certification exams with the CompTIA A+ course and lab. The lab provides a virtual environment for users to explore and learn. Interactive chapters comprehensively cover the CompTIA A+ certification exam objectives and provide expertise to work with mobile devices, networking technology, hardware, installing and configuring operating systems, expanded security, software troubleshooting, and more.",
+"lessons": 27,
+"exercises": 0,
+"quizzes": 216,
+"flashcards": 175,
+"glossary": 175,
+"preAssessment": 90,
+"tests": 6,
+"postAssessment": 90,
+"performance": 135,
+"tutorials": 129,
+"tutorialMinutes": "03:18",
+"liveLab": 0,
+"courseVideos": 102,
+"videoMinutes": "07:48"
 }
 ]
 }
