@@ -419,6 +419,27 @@
 "liveLab": 0,
 "courseVideos": 15,
 "videoMinutes": "00:17"
+},
+{
+"id": 20,
+"vendorTitle": "Vendor Qualifications Courses",
+"title": "PHP 5.5 Certification Study Guide and Practice Test",
+"img": "img/vendorCoursesImages/200-550.png",
+"courseObjective": "Prepare for the Zend 200-550: Zend - PHP 5.5 certification exam with the Zend - PHP 5.5 certification study guide. This course teaches you how to build interactive websites and applications using PHP, one of the most popular Web programming languages today. The Zend 200-550 exam course is intended for anyone starting out with PHP programming. Professionals who have previously worked in another programming language such as Java, C#, or Perl, will pick up the concepts in the earlier chapters quickly. The course requires no prior experience of programming or of building Web applications. The course offers genuine illustrations and interactivity to provide a robust and hands-on PHP training experience, to sharpen the aptitudes and add new improvement practices.",
+"lessons": 23,
+"exercises": 121,
+"quizzes": 218,
+"flashcards": 143,
+"glossary": 143,
+"preAssessment": 70,
+"tests": 3,
+"postAssessment": 70,
+"performance": 0,
+"tutorials": 0,
+"tutorialMinutes": 0,
+"liveLab": 0,
+"courseVideos": 45,
+"videoMinutes": "03:20"
 }
 ]
 }
